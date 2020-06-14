@@ -62,7 +62,7 @@
             "bgColor": "#f3c649",
             "showMeta": true
           },
-          "title": "RAJARAJESHWARI BUSINESS CONSULTANTS <br>PARTNERED WITH&nbsp;<br>JIU SOLUTIONS CUM KAKUMANU &amp; CO CHARTERED ACCOUNTANTS",
+          "title": "RAJARAJESHWARI BUSINESS CONSULTANTS <br>PARTNERED WITH&nbsp;<br>JIU SOLUTIONS&nbsp;",
           "meta": "Whether it’s dealing with you to safeguard your assets, fund your company growth, or develop an exit strategy to maximise your return for a cushty retirement, we offer business advice through practical and innovative solutions to assist you achieve your company goals."
         },
         {
@@ -173,6 +173,14 @@
             "Theme"
           ],
           "_name": "msg-box5",
+          "_styles": {
+            "H3": {
+              "color": "#000000"
+            },
+            "B": {
+              "color": "#000000"
+            }
+          },
           "_anchor": "msg-box5-e",
           "_params": {
             "imageSize": "50",
@@ -217,17 +225,9 @@
               "size": 0
             }
           },
-          "title": "JIU SOLUTIONS &nbsp;<br>KAKUMANU &amp; CO",
-          "text": "<b>CHARTED ACCOUNTANTS, AUDITING , TAX CONSULTANTION, GST RETURNS &amp; BUSINESS CONSULTANTS.</b>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"page1.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MORE</a>",
-          "_styles": {
-            "H3": {
-              "color": "#000000"
-            },
-            "B": {
-              "color": "#000000"
-            }
-          }
+          "title": "JIU SOLUTIONS &nbsp;<br>",
+          "text": "<b>&nbsp;ACCOUNTANTS, AUDITING , TAX CONSULTANTION, GST RETURNS &amp; BUSINESS CONSULTANTS.</b>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"page1.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MORE</a>"
         },
         {
           "_styles": {
@@ -254,24 +254,29 @@
             "Theme"
           ],
           "_name": "content1",
+          "_styles": {
+            "P": {
+              "text-align": "center"
+            }
+          },
           "_anchor": "content1-d",
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<p>As consultants we are committed to the cause of entrepreneurial prosperity. The confidence that we are the right choice for your business comes from the fact that we have the experience of operating through several verticals of businesses in India and overseas.</p><p>In today’s increasingly virtualized and globalized workplace, organizations need new ways to innovate, allocate resources and reinvent processes leveraging the latest trends. That’s where smart strategies pay off, particularly in times of economic uncertainty.</p><p>Working closely with clients, our consultants help your company define new innovative target operating models to drive the business transformations needed to achieve success. Our teams are global and our management consultants’ experience runs deep.</p><p>Our extensive experience and deep connect with organizations across industry sectors along with our compact structure, focused approach and knowledge allow us to address problems and discover alternatives with ease. We have functional and industry expertise as well as extensive geographical understanding. We are passionate about the business of business success.</p>",
-          "_styles": {
-            "P": {
-              "text-align": "center"
-            }
-          }
+          "text": "<p>As consultants we are committed to the cause of entrepreneurial prosperity. The confidence that we are the right choice for your business comes from the fact that we have the experience of operating through several verticals of businesses in India and overseas.</p><p>In today’s increasingly virtualized and globalized workplace, organizations need new ways to innovate, allocate resources and reinvent processes leveraging the latest trends. That’s where smart strategies pay off, particularly in times of economic uncertainty.</p><p>Working closely with clients, our consultants help your company define new innovative target operating models to drive the business transformations needed to achieve success. Our teams are global and our management consultants’ experience runs deep.</p><p>Our extensive experience and deep connect with organizations across industry sectors along with our compact structure, focused approach and knowledge allow us to address problems and discover alternatives with ease. We have functional and industry expertise as well as extensive geographical understanding. We are passionate about the business of business success.</p>"
         },
         {
           "_tags": [
             "Theme"
           ],
           "_name": "form1",
+          "_styles": {
+            ".form-control-label": {
+              "color": "#232323"
+            }
+          },
           "_anchor": "form1-4",
           "_params": {
             "labelsColor": "#232323",
@@ -317,12 +322,7 @@
               }
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">CONTACT US</a>",
-          "_styles": {
-            ".form-control-label": {
-              "color": "#232323"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">CONTACT US</a>"
         },
         {
           "_tags": [
@@ -348,7 +348,7 @@
             }
           },
           "text1": "<strong>Address</strong><br>No.3, Silver Oak Bunglows,&nbsp;<br>Cherlapally,<br>Hyderabad, Telanganna<br>India.<br><br><br>\n<strong>Contacts</strong><br>Prashant.G<br>Email: mktg.rrbc@gmail.com<br>\nPhone: +91-8885583926<br><br>",
-          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul><li><a href=\"http://rrbconline.in\">RAJARAJESHWARI BUSINESS CONSULTANTS</a></li><li>KAKUMANU &amp; CO</li><li>JIU SOLUTIONS</li><br></ul>"
+          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul><li><a href=\"http://rrbconline.in\">RAJARAJESHWARI BUSINESS CONSULTANTS</a></li><li><span style=\"font-size: 0.875rem; line-height: 1.8;\">JIU SOLUTIONS</span><br></li></ul>"
         }
       ]
     },
@@ -363,6 +363,14 @@
             "Theme"
           ],
           "_name": "header1",
+          "_styles": {
+            ".mbr-section-lead": {
+              "color": "#ffffff"
+            },
+            ".mbr-section-title": {
+              "font-size": "36px"
+            }
+          },
           "_anchor": "header1-k",
           "_params": {
             "parallax": true,
@@ -385,15 +393,7 @@
           },
           "title": "JIU SOLUTIONS <br>&amp; <br>KAKUMANU &amp; CO",
           "text": "As a firm of professionals and people assisting the profession, human capital at Kakumanu &amp; co associates is carefully cultivated to bring out the best in each. Senior professionals at the level of partners help in steering the firm to its goals of efficiency, transparency and quality.&nbsp;In addition to providing audit and legal support in the field of Indirect and Direct Taxes, the firm is being approached for consultancy services in various areas of taxation, legal, financing, business restructuring, cost and tax optimization and inbound and outbound investment strategies.<br><span style=\"font-size: 1.5rem; line-height: 1.5;\">In order to handle full-fledged consulting practise KAKUMANU &amp; CO was incorporated</span><br>The company is currently providing end to end outsourcing solutions relating to compliance of GST and Direct Tax to three large MNC Companies and two large domestic companies.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://prashantg85.github.io/rrbcssx/\" data-toolbar=\"-mbrBtnMove\">OUR SERVICES</a>  ",
-          "_styles": {
-            ".mbr-section-lead": {
-              "color": "#ffffff"
-            },
-            ".mbr-section-title": {
-              "font-size": "36px"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://prashantg85.github.io/rrbcssx/\" data-toolbar=\"-mbrBtnMove\">OUR SERVICES</a>  "
         },
         {
           "_inherit": "menu",
