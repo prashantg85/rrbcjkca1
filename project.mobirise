@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "RRBC ACCOUNTING",
-    "currentPage": "index.html",
+    "currentPage": "page1.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -391,8 +391,8 @@
             "showText": true,
             "showButtons": true
           },
-          "title": "JIU SOLUTIONS <br>&amp; <br>KAKUMANU &amp; CO",
-          "text": "As a firm of professionals and people assisting the profession, human capital at Kakumanu &amp; co associates is carefully cultivated to bring out the best in each. Senior professionals at the level of partners help in steering the firm to its goals of efficiency, transparency and quality.&nbsp;In addition to providing audit and legal support in the field of Indirect and Direct Taxes, the firm is being approached for consultancy services in various areas of taxation, legal, financing, business restructuring, cost and tax optimization and inbound and outbound investment strategies.<br><span style=\"font-size: 1.5rem; line-height: 1.5;\">In order to handle full-fledged consulting practise KAKUMANU &amp; CO was incorporated</span><br>The company is currently providing end to end outsourcing solutions relating to compliance of GST and Direct Tax to three large MNC Companies and two large domestic companies.",
+          "title": "JIU SOLUTIONS &amp; RRBC<br>",
+          "text": "As a firm of professionals and people assisting the profession, human capital at Kakumanu &amp; co associates is carefully cultivated to bring out the best in each. Senior professionals at the level of partners help in steering the firm to its goals of efficiency, transparency and quality.&nbsp;In addition to providing audit and legal support in the field of Indirect and Direct Taxes, the firm is being approached for consultancy services in various areas of taxation, legal, financing, business restructuring, cost and tax optimization and inbound and outbound investment strategies.<br><span style=\"font-size: 1.5rem; line-height: 1.5;\">In order to handle full-fledged consulting practise &nbsp;was incorporated</span><br>The company is currently providing end to end outsourcing solutions relating to compliance of GST and Direct Tax to various large domestic &amp; MSME companies.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://prashantg85.github.io/rrbcssx/\" data-toolbar=\"-mbrBtnMove\">OUR SERVICES</a>  "
         },
         {
