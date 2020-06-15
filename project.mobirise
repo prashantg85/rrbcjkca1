@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "RRBC ACCOUNTING",
-    "currentPage": "page1.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -344,7 +344,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#3C3C3C",
             "googleMap": {
-              "address": "No.3, Silver Oak Bunglows, \nCherlapally,\nHyderabad, Telanganna\nIndia. 500039",
+              "address": "Hyderabad, Telanganna, India\n",
               "placeId": "",
               "state": "error",
               "stateDetails": "Failed to load the library"
