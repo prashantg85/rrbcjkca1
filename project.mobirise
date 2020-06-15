@@ -493,9 +493,22 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text1": "<p>GST SERVICES</p><p>Our GST team, provides services which makes the clients business compliant under GST Act. We are engaged in providing services like getting the client's business registered under GST Act, filing of periodic GST returns, dealing with GST Audit of the business, making representations on all issues of GST before the Authorities, taking up the appeal cases, etc. under the guidance of our experts.</p><p><br></p><p><br></p>",
-          "text2": "<p>TYPES OF AUDITS CONDUCTED:</p><p>Statutory Audit of Companies</p><p>Tax Audit under Section 44AB of the Income Tax Act, 1961.</p><p>Audit under other sections of the Income Tax Act, 1961 such as 80HHC, 80-IA, etc.</p><p>Concurrent Audits.</p><p>Revenue Audit of Banks.</p><p>Branch Audits of Banks.</p><p>Audit of PF Trusts, Charitable Trusts, Schools, etc.</p><p>Audit of Co-operative Socities.</p><p>Information System Audit</p><p>Internal Audits..</p>",
-          "text3": "<p>ACCOUNTING SERVICES</p><p>Accounting System Design &amp; Implementation</p><p>Financial Accounting</p><p>Budgeting</p><p>Financial Reporting</p><p>MIS Reports</p><p>Financial Analysis</p><p>Asset Accounting Management</p><p>Depreciation and Amortization Schedules</p>"
+          "text1": "<blockquote><b>GST SERVICES</b></blockquote><p>Our GST team, provides services which makes the clients business compliant under GST Act. We are engaged in providing services like getting the client's business registered under GST Act, filing of periodic GST returns, dealing with GST Audit of the business, making representations on all issues of GST before the Authorities, taking up the appeal cases, etc. under the guidance of our experts.</p><p><br></p><p><br></p>",
+          "text2": "<blockquote><b>TYPES OF AUDITS CONDUCTED:</b></blockquote><p>Statutory Audit of Companies</p><p>Tax Audit under Section 44AB of the Income Tax Act, 1961.</p><p>Audit under other sections of the Income Tax Act, 1961 such as 80HHC, 80-IA, etc.</p><p>Concurrent Audits.</p><p>Revenue Audit of Banks.</p><p>Branch Audits of Banks.</p><p>Audit of PF Trusts, Charitable Trusts, Schools, etc.,&nbsp;<span style=\"line-height: 1.5;\">Audit of Co-operative Socities.</span></p><p>Information System Audit,&nbsp;<span style=\"line-height: 1.5;\">Internal Audits..</span></p>",
+          "text3": "<blockquote><b>ACCOUNTING SERVICES</b></blockquote><p>Accounting System Design &amp; Implementation</p><p>Financial Accounting</p><p>Budgeting</p><p>Financial Reporting</p><p>MIS Reports</p><p>Financial Analysis</p><p>Asset Accounting Management</p><p>Depreciation and Amortization Schedules</p>",
+          "_styles": {
+            "P": {
+              "font-size": "17px"
+            },
+            "PRE": {
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "font-size": "18px"
+            },
+            "B": {
+              "font-size": "20px"
+            }
+          }
         },
         {
           "_tags": [
@@ -508,7 +521,13 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<p>BUSINESS ADVISORY SERVICES</p><p>Whether it’s dealing with you to safeguard your assets, fund your company growth, or develop an exit strategy to maximise your return for a cushty retirement, we offer business advice through practical and innovative solutions to assist you achieve your company goals.<div>Information is critical for businesses to help make the right decisions at the best time. Our advisors realize that a thorough suite of tailored advice and services can ensure optimal outcomes for the tax and business matters.</div><div>We offer advice to a varied array of clients with a varied array of needs and believe that it’s our breadth and depth of experience, and the capability to proactively provide solutions in an appropriate manner, that sets our firm in addition to the rest.</div><div>Focused on helping you grow your company and your profits, Allan Hall Business Advisors offers specialist business advising services primarily to small and medium enterprises. Our services include:</div><div>Business Review</div><div>Business Planning and Structuring</div><div>KPIs and Benchmarking</div><div>Budgeting and Cash Flow Management</div><div>Business Growth</div><div>Business Recovery</div><div>Succession Planning</div><div>We realize what it’s like to stay business, all things considered we’re too! The trials and tribulations of managing a small business are challenging and constantly changing. We help to supply reassurance with free telephone calls and meetings with a passionate and friendly business advisors.</div><div>MANAGING YOUR FINANCES</div><div>E accounHting focuses on the measurement, analysis and reporting of information that can help managers in making decisions to fulfil the goals of an organization. In management accounting, internal measures and reports are based on cost-benefit analysis, and are not required to follow the generally accepted accounting principle<br><div><br></div><div>Our extensive experience and deep connect with organizations across industry sectors along with our compact structure, focused approach and knowledge allow us to address problems and discover alternatives with ease. We have functional and industry expertise as well as extensive geographical understanding. We are passionate about the business of business success.</div></div></p>"
+          "text": "<blockquote><b>BUSINESS ADVISORY SERVICES</b></blockquote><p>Whether it’s dealing with you to safeguard your assets, fund your company growth, or develop an exit strategy to maximise your return for a cushty retirement, we offer business advice through practical and innovative solutions to assist you achieve your company goals.</p><div>Information is critical for businesses to help make the right decisions at the best time. Our advisors realize that a thorough suite of tailored advice and services can ensure optimal outcomes for the tax and business matters.</div><div>We offer advice to a varied array of clients with a varied array of needs and believe that it’s our breadth and depth of experience, and the capability to proactively provide solutions in an appropriate manner, that sets our firm in addition to the rest.</div><div>Focused on helping you grow your company and your profits, Allan Hall Business Advisors offers specialist business advising services primarily to small and medium enterprises. Our services include:</div><ul><li>Business Review</li><li>Business Planning and Structuring</li><li>KPIs and Benchmarking</li><li>Budgeting and Cash Flow Management</li><li>Business Growth</li><li>Business Recovery</li><li>Succession Planning</li></ul><div>We realize what it’s like to stay business, all things considered we’re too! The trials and tribulations of managing a small business are challenging and constantly changing. We help to supply reassurance with free telephone calls and meetings with a passionate and friendly business advisors.</div><blockquote><b>MANAGING YOUR FINANCES</b></blockquote><div>E accounHting focuses on the measurement, analysis and reporting of information that can help managers in making decisions to fulfil the goals of an organization. In management accounting, internal measures and reports are based on cost-benefit analysis, and are not required to follow the generally accepted accounting principle<br><div><br></div><div>Our extensive experience and deep connect with organizations across industry sectors along with our compact structure, focused approach and knowledge allow us to address problems and discover alternatives with ease. We have functional and industry expertise as well as extensive geographical understanding. We are passionate about the business of business success.</div></div><p></p>",
+          "_styles": {
+            "B": {
+              "text-align": "center",
+              "font-size": "20px"
+            }
+          }
         }
       ]
     }

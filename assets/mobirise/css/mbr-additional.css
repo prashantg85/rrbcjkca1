@@ -1,6 +1,7 @@
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
 @import url(https://fonts.googleapis.com/css?family=Lora:400,700);
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,700);
 
 
 
@@ -440,6 +441,7 @@ h6,
 #form1-4 .form-control-label {
   color: #232323;
 }
+
 #header1-k .mbr-section-lead {
   color: #ffffff;
 }
@@ -506,4 +508,18 @@ h6,
 #ext_menu-7 .link[aria-expanded="true"],
 #ext_menu-7 .dropdown-item[aria-expanded="true"] {
   color: #c0a375!important;
+}
+#content7-a P {
+  font-size: 17px;
+}
+#content7-a PRE {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 18px;
+}
+#content7-a B {
+  font-size: 20px;
+}
+#content1-b B {
+  text-align: center;
+  font-size: 20px;
 }
