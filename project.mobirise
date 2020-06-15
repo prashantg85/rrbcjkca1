@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "RRBC ACCOUNTING",
-    "currentPage": "page1.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -342,13 +342,14 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#3C3C3C",
             "googleMap": {
-              "placeId": "ChIJn6wOs6lZwokRLKy1iqRcoKw",
-              "address": "350 5th Ave, New York, NY 10118",
-              "state": "ok"
+              "address": "No.3, Silver Oak Bunglows, \nCherlapally,\nHyderabad, Telanganna\nIndia. 500039",
+              "placeId": "",
+              "state": "error",
+              "stateDetails": "Failed to load the library"
             }
           },
-          "text1": "<strong>Address</strong><br>No.3, Silver Oak Bunglows,&nbsp;<br>Cherlapally,<br>Hyderabad, Telanganna<br>India.<br><br><br>\n<strong>Contacts</strong><br>Prashant.G<br>Email: mktg.rrbc@gmail.com<br>\nPhone: +91-8885583926<br><br>",
-          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul><li><a href=\"http://rrbconline.in\">RAJARAJESHWARI BUSINESS CONSULTANTS</a></li><li><span style=\"font-size: 0.875rem; line-height: 1.8;\">JIU SOLUTIONS</span><br></li></ul>"
+          "text1": "<strong>Address</strong><br>No.3, Silver Oak Bunglows,&nbsp;<br>Cherlapally,<br>Hyderabad, Telanganna<br>India. 500039<br><br><br>\n<strong>Contacts</strong><br>Prashant.G<br>Email: mktg.rrbc@gmail.com<br>\nPhone: +91-8885583926<br><br>",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul><li><a href=\"http://rrbconline.in\">RAJARAJESHWARI BUSINESS CONSULTANTS</a></li><li><span style=\"font-size: 0.875rem; line-height: 1.8;\"><a href=\"https://prashantg85.github.io/rrbcjkca1/page1.html\" target=\"_blank\">JIU SOLUTIONS</a></span><br></li></ul>"
         }
       ]
     },
